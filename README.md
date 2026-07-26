@@ -12,6 +12,7 @@ Para compilar y ejecutar este sistema de forma local, se debe utilizar:
 1. **Java Development Kit (JDK):** Versión 21 o superior instalada.
 2. **Variable de Entorno:** `JAVA_HOME` correctamente configurada en tu sistema operativo.
 3. **Línea de Comandos:** Terminal, Git Bash o CMD disponible.
+4. **IDE:** NetBeans, Eclipse o VS Code.
 
 ---
 
