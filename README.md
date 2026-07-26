@@ -1,6 +1,6 @@
 # Food Store – Sistema de Gestión de Pedidos de Comida
 
-Este proyecto se realizo para el Trabajo Práctico Integrador de la materia **Programación 2** de la **Tecnicatura Universitaria en Programación a Distancia (UTN)**. Consiste en una aplicación de consola desarrollada en Java 21 enfocada en la gestión de categorías, productos, usuarios y pedidos mediante las operaciones basicas CRUD.
+Este proyecto se realizo para el Trabajo Práctico Integrador de la materia **Programación 2** de la **Tecnicatura Universitaria en Programación a Distancia de la Universidad Tecnologica Nacional de Buenos Aires (UTN)**. Consiste en una aplicación de consola desarrollada en Java 21 enfocada en la gestión de categorías, productos, usuarios y pedidos mediante las operaciones basicas CRUD.
 
 ---
 
