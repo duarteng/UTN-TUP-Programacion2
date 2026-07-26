@@ -4,7 +4,7 @@ Este proyecto se realizo para el Trabajo Práctico Integrador de la materia **Pr
 
 ---
 
-## 🛠️ Requisitos Previos para la Ejecución
+## Requisitos Previos para la Ejecución
 Para compilar y ejecutar este sistema de forma local, se debe utilizar:
 1. **Java Development Kit (JDK):** Versión 21 o superior instalada.
 2. **Variable de Entorno:** `JAVA_HOME` correctamente configurada en tu sistema operativo.
